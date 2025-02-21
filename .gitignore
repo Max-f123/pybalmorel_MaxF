@@ -7,6 +7,8 @@ __pycache__
 output
 config
 build
+*.icloud
+.DS_Store
 
 # This one is necessary to do tests
 !tests/output/.keepoutputfolder
